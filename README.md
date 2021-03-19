@@ -1,7 +1,7 @@
 # multithreaded-server
 
 ## Overview
-Implementation of a multithreaded networking server in C which supports file retrievals and other queries.
+A multithreaded networking server in C which supports file retrievals and other queries.
 
 ## Features
 - Multiplexed file transfer, which enables a client to request a single file split over multiple parallel connections to increase the speed of file transfer.
